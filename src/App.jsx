@@ -208,7 +208,7 @@ const ValeriOS = () => {
                     </div>
                  </div>
                  <div className="col-span-9 space-y-6">
-                    <div className="flex justify-between items-end border-b border-[#F0EBE6] pb-4">
+                    <div className="flex justify-between items-start border-b border-[#F0EBE6] pb-4">
                        <div>
                           <h3 className="text-xl font-display font-bold text-[#1F1A17]">Sunset Boulevard Mixed-Use</h3>
                           <div className="flex gap-3 mt-2">
