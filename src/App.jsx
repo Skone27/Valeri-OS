@@ -216,7 +216,7 @@ const ValeriOS = () => {
                              <span className="text-[10px] font-bold uppercase tracking-wide px-2 py-1 bg-[#F5F2EB] text-[#5A524D] rounded-sm border border-[#E5E0D8]">$42MM Request</span>
                           </div>
                        </div>
-                       <div className="text-right mt">
+                       <div className="text-right">
                           <div className="text-[10px] font-bold uppercase text-[#6B5F59] mb-1">Conviction Score</div>
                           <div className="text-3xl font-display font-bold text-[#1F1A17]">88<span className="text-sm text-[#6B5F59] font-normal">/100</span></div>
                        </div>
