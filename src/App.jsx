@@ -208,7 +208,7 @@ const ValeriOS = () => {
                     </div>
                  </div>
                  <div className="col-span-9 space-y-6">
-                    <div className="flex justify-between items-start border-b border-[#F0EBE6] pb-4">
+                    <div className="flex justify-between items-end border-b border-[#F0EBE6] pb-4 pt-8">
                        <div>
                           <h3 className="text-xl font-display font-bold text-[#1F1A17]">Sunset Mixed-Use</h3>
                           <div className="flex gap-3 mt-2">
@@ -216,7 +216,7 @@ const ValeriOS = () => {
                              <span className="text-[10px] font-bold uppercase tracking-wide px-2 py-1 bg-[#F5F2EB] text-[#5A524D] rounded-sm border border-[#E5E0D8]">$42MM Request</span>
                           </div>
                        </div>
-                       <div className="text-right mt-20">
+                       <div className="text-right mt">
                           <div className="text-[10px] font-bold uppercase text-[#6B5F59] mb-1">Conviction Score</div>
                           <div className="text-3xl font-display font-bold text-[#1F1A17]">88<span className="text-sm text-[#6B5F59] font-normal">/100</span></div>
                        </div>
